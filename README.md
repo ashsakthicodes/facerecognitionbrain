@@ -9,3 +9,4 @@ Sublime Text as code editor, uiGradients for color palette, React.js, API, JSONP
 Acknowledgments:
 Thanks to Andrei Neagoie, @aneagoie, and his course, https://www.udemy.com/the-complete-web-developer-zero-to-mastery/. Also to the Z2M Discord channel for providing additional support.
 
+DEMO: https://ashsakthicodes.github.io/facerecognitionbrain/
